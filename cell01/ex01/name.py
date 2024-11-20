@@ -1,4 +1,4 @@
-first_n = "Kunakorn" 
-last_n = "Masor"      
-whole_n = f"{first_n} {last_n}"
-print(whole_n)
+first_name = "Kunakorn" 
+last_name = "Masor"      
+whole_name = f"{first_name} {last_name}"
+print(whole_name)
