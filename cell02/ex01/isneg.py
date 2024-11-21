@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 num = float(input("Please enter a number: "))
 
 if num < 0:
